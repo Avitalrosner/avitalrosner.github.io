@@ -4,8 +4,10 @@ Hey there,
 
 My name is Avital Rosner, welcome to my web page :)
 
-*[I love horses!!](/animal)
+I enjoy taking cool pictures with different microscopes, have a look:
 
-*[And my dream is to have a farm house](/farmhouse)
+
+GitHub: [Avital](https://github.com/Avitalrosner).<br> 
+
 
 
