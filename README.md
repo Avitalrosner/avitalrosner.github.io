@@ -1,8 +1,5 @@
 # avitalrosner.github.io
 
-Hey there,
-
-Welcome to my web page :)
 
 I'm a Master's student at [Weizmann](https://www.weizmann.ac.il/pages/), and I love looking at cool phenomenas through different microscopes:
 ## Isn't it amazing?
