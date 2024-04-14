@@ -11,5 +11,5 @@ I love looking at cool phenomenas through different microscopes:
 
 My GitHub: [Avital](https://github.com/Avitalrosner).<br> 
 
-[windows]/(/windows)
+
 
