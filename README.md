@@ -1,7 +1,8 @@
 # avitalrosner.github.io
 
 
-I'm a Master's student at [Weizmann](https://www.weizmann.ac.il/pages/), and I love looking at cool phenomenas through different microscopes:
+I'm currently a Master's student at [Weizmann](https://www.weizmann.ac.il/pages/), specifically in a rotation at [Shalev's lab](https://shalevlab.weizmann.ac.il/).
+I love looking at cool phenomenas through different microscopes:
 ## Isn't it amazing?
 ![confetti mice](https://neurophilosophy.files.wordpress.com/2007/10/brainbow-hippocampus.jpg)
 
