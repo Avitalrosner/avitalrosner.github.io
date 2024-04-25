@@ -1,5 +1,7 @@
 # avitalrosner.github.io
 
+<img src="1713115429845.jpg" alt="Profile Picture" width="200" style="border-radius: 50%; border: 4px solid white;">
+
 
 I'm currently a Master's student at [Weizmann](https://www.weizmann.ac.il/pages/), specifically in a rotation at [Shalev's lab](https://shalevlab.weizmann.ac.il/).
 I love looking at cool phenomenas through different microscopes:
