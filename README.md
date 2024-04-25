@@ -9,7 +9,9 @@ I love looking at cool phenomenas through different microscopes:
 (Copyright © Mo Costandi 2006-2021)
 
 
-My GitHub: [Avital](https://github.com/Avitalrosner).<br> 
+My GitHub: [Avital](https://github.com/Avitalrosner).<br>
+
+Updates for the python course can be found in [python course](wis_python_course)
 
 
 
