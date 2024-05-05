@@ -7,7 +7,7 @@ I'm currently a Master's student at [Weizmann](https://www.weizmann.ac.il/pages/
 I love looking at cool phenomenas through different microscopes:
 ## Isn't it amazing?
 ![confetti mice](https://neurophilosophy.files.wordpress.com/2007/10/brainbow-hippocampus.jpg)
-
+In the above you can appreciate the cool “Brainbow” technology, it enable great advances in imaging by exploiting the Cre/lox system to randomly assign each cell a unique combination of red, yellow and blue fluorescent proteins.
 (Copyright © Mo Costandi 2006-2021)
 
 
